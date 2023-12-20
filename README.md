@@ -1,3 +1,8 @@
+If you use npm you can write in commond line: 
+1. npm i -g yarn
+2. yarn
+3. yarn run dev 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
