@@ -1,6 +1,6 @@
 // vite.config.js
-import { defineConfig } from "file:///H:/Youtube/dashboard%20v2/dashboard-v2-starterpack/node_modules/vite/dist/node/index.js";
-import react from "file:///H:/Youtube/dashboard%20v2/dashboard-v2-starterpack/node_modules/@vitejs/plugin-react/dist/index.mjs";
+import { defineConfig } from "file:///C:\Users\VivoBook\OneDrive\Рабочий стол\admin-panel app\node_modules/vite/dist/node/index.js";
+import react from "file:///C:\Users\VivoBook\OneDrive\Рабочий стол\admin-panel app\node_modules/@vitejs/plugin-react/dist/index.mjs";
 var vite_config_default = defineConfig({
   plugins: [react()]
 });
